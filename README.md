@@ -1,5 +1,6 @@
 # PS-MultiJob-CSS-Edit
-version '1.1.3' - PS-Multijob  #https://github.com/Project-Sloth/ps-multijob
+version '1.1.3' 
+- PS-Multijob - https://github.com/Project-Sloth/ps-multijob
 
 # Installation
 
